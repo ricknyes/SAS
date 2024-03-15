@@ -1,5 +1,4 @@
 schedule 
 DateTime
-shutil
 telebot
 asyncio
