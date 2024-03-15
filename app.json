@@ -29,10 +29,10 @@
             "value": "6754064112:AAGajDEOCHuUrDmLW60fq0UrP-XZgQJT63I",
             "required": true
     }
-  }
+  },
       "addons": [{
     "plan": "heroku-postgresql",
     "options": {
       "version": "15"
 } 
-  }]
+  }]} 
